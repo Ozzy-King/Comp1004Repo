@@ -8,4 +8,5 @@ for uni comp 1004
 | -------- | ------- | ------------------- |
 | Osbourne | Clark   | laud                |
 
-a br1 puhs then merge to main
+a man br(lol spelled br wrong :P)
+new line here too
